@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jaychang99/todo-backend/issues"
   },
-  "homepage": "https://github.com/jaychang99/todo-backend#readme"
+  "homepage": "https://github.com/jaychang99/todo-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
